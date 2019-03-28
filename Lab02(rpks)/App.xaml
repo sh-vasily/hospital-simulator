@@ -1,0 +1,4 @@
+﻿<Application x:Class="Lab02_rpks_.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+</Application>

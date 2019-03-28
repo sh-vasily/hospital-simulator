@@ -1,0 +1,15 @@
+c:\users\василий\source\repos\Lab02(rpks)\Lab02(rpks)\bin\Debug\Lab02(rpks).exe.config
+c:\users\василий\source\repos\Lab02(rpks)\Lab02(rpks)\bin\Debug\Lab02(rpks).exe
+c:\users\василий\source\repos\Lab02(rpks)\Lab02(rpks)\bin\Debug\Lab02(rpks).pdb
+c:\users\василий\source\repos\Lab02(rpks)\Lab02(rpks)\obj\Debug\Lab02(rpks).csprojResolveAssemblyReference.cache
+c:\users\василий\source\repos\Lab02(rpks)\Lab02(rpks)\obj\Debug\MainWindow.g.cs
+c:\users\василий\source\repos\Lab02(rpks)\Lab02(rpks)\obj\Debug\App.g.cs
+c:\users\василий\source\repos\Lab02(rpks)\Lab02(rpks)\obj\Debug\Lab02(rpks)_MarkupCompile.cache
+c:\users\василий\source\repos\Lab02(rpks)\Lab02(rpks)\obj\Debug\Lab02(rpks)_MarkupCompile.lref
+c:\users\василий\source\repos\Lab02(rpks)\Lab02(rpks)\obj\Debug\MainWindow.baml
+c:\users\василий\source\repos\Lab02(rpks)\Lab02(rpks)\obj\Debug\Lab02(rpks).g.resources
+c:\users\василий\source\repos\Lab02(rpks)\Lab02(rpks)\obj\Debug\Lab02_rpks_.Properties.Resources.resources
+c:\users\василий\source\repos\Lab02(rpks)\Lab02(rpks)\obj\Debug\Lab02(rpks).csproj.GenerateResource.Cache
+c:\users\василий\source\repos\Lab02(rpks)\Lab02(rpks)\obj\Debug\Lab02(rpks).csproj.CoreCompileInputs.cache
+c:\users\василий\source\repos\Lab02(rpks)\Lab02(rpks)\obj\Debug\Lab02(rpks).exe
+c:\users\василий\source\repos\Lab02(rpks)\Lab02(rpks)\obj\Debug\Lab02(rpks).pdb
