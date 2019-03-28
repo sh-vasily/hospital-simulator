@@ -227,11 +227,9 @@ namespace wpfloginscreen.Models
             }
             return -1;
         }
-#endregion
 
 
-
-        /* public void Update()
+         public void Update()
         {
             var list = new List<Experiment>();
 
@@ -258,6 +256,7 @@ namespace wpfloginscreen.Models
                 }
 
             }
-        }*/
+        }
     }
 }
+#endregion
